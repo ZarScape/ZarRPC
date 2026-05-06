@@ -1,0 +1,14 @@
+# Ignore everything
+/*
+
+# Allow the src folder itself (but not its contents yet)
+!/src/
+
+# Ignore everything inside src
+/src/*
+
+# Allow the icons folder inside src
+!/src/icons/
+
+# Allow .gitignore itself
+!.gitignore

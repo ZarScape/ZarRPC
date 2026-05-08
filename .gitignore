@@ -1,8 +1,8 @@
 # Ignore everything
 /*
 
-# Allow ONLY icons folder
-!/icons/
+# Allow ONLY icon folder
+!/icon/
 
 # Allow .gitignore
 !.gitignore
